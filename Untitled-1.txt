@@ -1,0 +1,5 @@
+# 2 - Generate From-city
+# 4 - Generate via-city
+# 6 - Generate to-city
+# 8 - Generate train_No and trian_name
+# 10 - Generate Platform_No
